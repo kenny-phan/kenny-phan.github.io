@@ -1,8 +1,13 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+main:
+  - name: "home"
+    link: /
+    desciption: "home page"
+  - name: "research"
+    link: /research/
+    description: "what i'm working on!"
+  - name: "CV"
+    link: /cv/
+    description: "my cv"
+  - name: "teaching & mentorship"
+    link: /teach-mentor/
+    description: "broad education, outreach, access work"
