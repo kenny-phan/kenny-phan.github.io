@@ -1,3 +1,3 @@
-# [Personal Website](https://kenny-phan.github.io/)
+# [kenny-phan.github.io](https://kenny-phan.github.io/)
 
 Made with Jekyll!
