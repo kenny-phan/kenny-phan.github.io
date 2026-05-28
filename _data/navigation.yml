@@ -1,13 +1,15 @@
-main:
-  - name: "home"
-    link: /
-    desciption: "home page"
-  - name: "research"
-    link: /research/
-    description: "what i'm working on!"
-  - name: "CV"
-    link: /cv/
-    description: "my cv"
-  - name: "teaching & mentorship"
-    link: /teach-mentor/
-    description: "broad education, outreach, access work"
+- name: "home"
+  link: /
+  desciption: "home page"
+- name: "about"
+  link: /about/
+  description: "who i am and what i do"
+- name: "research"
+  link: /research/
+  description: "what i'm working on!"
+- name: "CV"
+  link: /cv/
+  description: "my cv"
+- name: "teaching & mentorship"
+  link: /teach-mentor/
+  description: "broad education, outreach, access work"
