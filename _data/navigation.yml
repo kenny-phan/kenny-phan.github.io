@@ -1,21 +1,22 @@
-- name: "home"
-  link: /
-  desciption: "home page"
-- name: "about"
-  link: /about/
-  description: "who i am and what i do"
-- name: "research"
-  link: /research/
-  description: "what i'm working on!"
-- name: "CV"
-  link: /cv/
-  description: "my cv"
-- name: "teaching & mentorship"
-  link: /teach-mentor/
-  description: "broad education, outreach, access work"
-- name: "Blog" 
-  link: /blog/
-  description: "my thoughts"
-- name: "staff"
-  link: /staff/
-  description: "people i've worked with"
+main:
+  - title: "home"
+    url: /
+    desciption: "home page"
+  - title: "about"
+    url: /about/
+    description: "who i am and what i do"
+  - title: "research"
+    url: /research/
+    description: "what i'm working on!"
+  - title: "CV"
+    url: /cv/
+    description: "my cv"
+  - title: "teaching & mentorship"
+    url: /teach-mentor/
+    description: "broad education, outreach, access work"
+  - title: "Blog" 
+    url: /blog/
+    description: "my thoughts"
+  - title: "staff"
+    url: /staff/
+    description: "people i've worked with"
