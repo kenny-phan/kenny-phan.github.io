@@ -9,7 +9,7 @@ main:
     url: /research/
     description: "what i'm working on!"
   - title: "CV"
-    url: /cv/
+    url: assets/Phan_CV_5.27.26.pdf
     description: "my cv"
   - title: "teaching & mentorship"
     url: /teach-mentor/
