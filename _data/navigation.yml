@@ -13,3 +13,9 @@
 - name: "teaching & mentorship"
   link: /teach-mentor/
   description: "broad education, outreach, access work"
+- name: "Blog" 
+  link: /blog/
+  description: "my thoughts"
+- name: "staff"
+  link: /staff/
+  description: "people i've worked with"
