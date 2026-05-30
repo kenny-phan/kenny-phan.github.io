@@ -1,0 +1,22 @@
+---
+layout: default
+title: Research Projects
+---
+<h1>Research Projects</h1>
+
+<ul>
+  {% assign present_projects = site.researchprojects | where: 'end_date', 'Present' %}
+  {% assign dated_projects = site.researchprojects | where_exp: 'item', 'item.end_date != "Present"' | sort: 'end_date' | reverse %}
+  {% assign all_projects = present_projects | concat: dated_projects %}
+  
+  {% for researchproject in all_projects %}
+    <hr />
+    <li>
+      <h4><a href="{{ researchproject.url }}">{{ researchproject.name }}</a></h4>
+      <h5>{{ researchproject.position }}</h5>
+      <h5>{{ researchproject.start_date }} - {{ researchproject.end_date }}</h5>
+      <h5>PI: {{ researchproject.pi }}</h5>
+      <!-- {{ researchproject.content }} -->
+    </li>
+  {% endfor %}
+</ul>

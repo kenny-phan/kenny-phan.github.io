@@ -2,21 +2,25 @@ main:
   - title: "home"
     url: /
     desciption: "home page"
-  - title: "about"
-    url: /about/
-    description: "who i am and what i do"
+  # - title: "about"
+  #   url: /about/
+  #   description: "who i am and what i do"
   - title: "research"
-    url: /research/
+    url: /researchprojects/
     description: "what i'm working on!"
+  # - title: "staff"
+  #   url: /staff/
+  #   description: "people i've worked with"
+  # - title: "research"
+  #   url: /research/
+  #   description: "what i'm working on!"
   - title: "CV"
-    url: assets/Phan_CV_5.27.26.pdf
+    url: assets/pdfs/Phan_CV_5.27.26.pdf
     description: "my cv"
-  - title: "teaching & mentorship"
-    url: /teach-mentor/
+  - title: "education"
+    url: /education/
     description: "broad education, outreach, access work"
-  - title: "Blog" 
-    url: /blog/
-    description: "my thoughts"
-  - title: "staff"
-    url: /staff/
-    description: "people i've worked with"
+  # - title: "Blog" 
+  #   url: /blog/
+  #   description: "my thoughts"
+

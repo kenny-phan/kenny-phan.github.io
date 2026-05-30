@@ -318,6 +318,9 @@ collections:
     permalink: /:name/
   authors:
     output: true
+  researchprojects:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
   - scope:
