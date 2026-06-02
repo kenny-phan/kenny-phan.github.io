@@ -11,10 +11,10 @@ var store = [{
         "url": "/research/",
         "teaser": null
       },{
-        "title": "teach-mentor",
-        "excerpt":"teach-mentor page   This page tells you a little bit about me.  ","categories": [],
+        "title": "Education",
+        "excerpt":"Education-related Projects Google’s Astronomical Influence Campaign As part of the requirements for the Intensive Education Studies Certificate, I drafted a report on the Google’s involvement in space and cloud industries and how that affects astronomers. I come to the conclusion that Google, intentionally or not, has ingratiated itself in astronomy...","categories": [],
         "tags": [],
-        "url": "/teach-mentor/",
+        "url": "/education/",
         "teaser": null
       },{
         "title": "Bananas",
